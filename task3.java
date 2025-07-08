@@ -1,3 +1,5 @@
+//Name:Michael Antigua
+//CmSC 203 
 public int findMinimum(int column) {
     int min = intArray[0][column]; 
     for (int row = 1; row < intArray.length; row++) {
