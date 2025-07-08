@@ -1,3 +1,5 @@
+//Name:Michael Antigua
+//CMSC 203
 public int countFound(int value) {
     int count = 0;
     for (int row = 0; row < intArray.length; row++) {
